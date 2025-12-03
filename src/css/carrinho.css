@@ -1,0 +1,46 @@
+*{
+    color: #b14a5d;
+    margin: 0 auto;    
+}
+
+.input-tamanho{
+    width: 120px;
+}
+
+#qtd{
+    border: 2px solid #b14a5d;
+    margin: 0 auto;
+      
+}
+
+label{    
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p{
+    color: #b14a5d;
+    font-weight: bold;
+    background-color: rgb(230, 230, 230);
+    text-align: center; 
+    font-size: 25px;
+}
+
+.ajusta-paragrafo{
+    margin-top: 20%;
+    background-color: rgb(230, 230, 230);
+}
+
+.form-group{
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+    height: 250px;
+}
+
+.col-md-12{
+   text-align: center;
+}
+
+.carrinho-ajuste{
+    margin-top: -3.5%;
+}

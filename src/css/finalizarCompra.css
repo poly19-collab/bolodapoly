@@ -1,0 +1,32 @@
+.form-group{
+  background-color: #e28a9a;
+}
+
+#paragrafo{
+    background-color: #e28a9a;
+    font-size: 20px;
+    color: #290202;
+    font-weight: bold;
+}
+
+h3{
+    color: #290202;
+}
+
+.btn-info{
+    background-color: #a83449;
+    border: 1px solid #a83449;
+    font-weight: bold;
+    color: #fff;
+}
+
+.btn-info:hover{
+    background-color: #a83449;
+    border: 1px solid #a83449;
+    color: #fff;
+}
+
+th, td {
+    padding: 10px;    
+    border-bottom: 1px solid #a83449;  
+}

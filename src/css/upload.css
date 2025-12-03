@@ -1,0 +1,31 @@
+body{
+    background-color: #e28a9a;    
+}
+
+.col-md-12{
+    text-align: center;
+}
+
+h3, h4{
+    color: #290202;
+}
+
+.btn-success{
+    background-color: #290202;
+}
+
+.btn-info{
+    background-color: #a83449;
+    color: #fff;
+    border: 1px solid #a83449;
+}
+
+.btn-info:hover{
+    background-color: #a83449;
+    color: #fff;
+    border: 1px solid #a83449;
+}
+
+p{
+    margin-right: 50%;
+}

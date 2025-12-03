@@ -1,0 +1,29 @@
+.input-edit-numbers{
+    width: 180px;
+}
+
+h3{
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+}
+
+input[type="number"] {
+  border: 2px solid #b14a5d;
+  margin: 0 auto;
+}
+
+#selectCategoria, #selectCategoriaExcluir, #inputUpload{
+    border: 2px solid #b14a5d;
+}
+
+#precoNumber, #qtdNumber{
+    margin-left: 0;
+}
+
+#labelUpload{
+    font-weight: bold;
+    color: #000;
+}
