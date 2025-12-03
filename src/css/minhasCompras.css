@@ -1,0 +1,9 @@
+#paragrafoCli{
+    color: #a83449;
+    font-weight: bold;
+}
+
+th, td {
+    padding: 10px;    
+    border-bottom: 1px solid #a83449;  
+}
